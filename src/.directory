@@ -1,0 +1,10 @@
+[Dolphin]
+PreviewsShown=true
+SortOrder=1
+SortRole=modificationtime
+Timestamp=2018,4,17,11,32,52
+Version=4
+VisibleRoles=Icons_text,Icons_modificationtime
+
+[Settings]
+HiddenFilesShown=true
